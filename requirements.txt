@@ -1,0 +1,4 @@
+﻿dnspython==2.7.0
+MarkupSafe==3.0.2
+pymongo==4.10.1
+websockets==14.1
